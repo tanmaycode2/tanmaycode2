@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Devops, Cloud computing and Data structure Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanmaycode2](https://github.com/tanmaycode2)
-
 - 📝 I regularly write articles on [https://dev.to/tanmaygi](https://dev.to/tanmaygi)
 
 - 📫 How to reach me **shuklatanmay519@gmail.com**

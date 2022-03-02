@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Shukla</h1>
 <h3 align="center">A passionate software engineer currently learning Devops, Cloud computing and Data structure</h3>
 
-- 🔭 I’m currently working on **DSA bootcamp**
+- 🔭 I’m currently learning  **Open Source contribution**
 
 - 🌱 I’m currently learning **Devops, Cloud computing and Data structure Algorithms**
 

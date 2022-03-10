@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tanmaygi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tanmaygi" height="30" width="40" /></a>
-<a href="https://twitter.com/tanmay2tweet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmay2tweet" height="30" width="40" /></a>
+<a href="https://twitter.com/shuklatanmay2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmay2tweet" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tanmay-shukla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-shukla/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCg9Dn5qrsDPGYmUWsyjVwRg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucg9dn5qrsdpgymuwsyjvwrg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/happytanmay2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/happytanmay2" height="30" width="40" /></a>

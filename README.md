@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Shukla</h1>
-<h3 align="center">A passionate software engineer currently learning Devops, Cloud computing.</h3>
+<h3 align="center">A passionate software engineer experienced in Devops and Cloud computing.</h3>
 
-- 🔭 I’m currently working on  **DevOps, Cloud-Native**
-
-- 🌱 I’m currently learning **Devops, Cloud computing(AWS, Azure) .**
+- 🔭 I’m currently working on  **AWS, CI/CD**
 
 - 📝 I regularly write articles on [https://dev.to/tanmaygi](https://dev.to/tanmaygi)
 

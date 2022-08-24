@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Shukla</h1>
 <h3 align="center">A passionate software engineer experienced in Devops and Cloud computing.</h3>
 
-- 🔭 I’m currently working on  **AWS, CI/CD**
+- 🔭 I’m currently working on  **AWS, CI/CD, Golang, Python**
 
 - 📝 I regularly write articles on [https://dev.to/tanmaygi](https://dev.to/tanmaygi)
 

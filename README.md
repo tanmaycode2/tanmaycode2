@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Shukla</h1>
-<h3 align="center">A passionate software engineer experienced in Devops and Cloud computing.</h3>
+<h3 align="center">A passionate DevOps engineer experienced in Devops, AWS & Cloud Native.</h3>
 
 - 🔭 I’m currently working on  **AWS, CI/CD, Golang, Python**
 

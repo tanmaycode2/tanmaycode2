@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as DevOps engineer.<br>My Bio:  https://tanmayshukla.bio.link/<br><br>Regularly write articles:<br>- https://dev.to/tanmaygi<br>- https://tanmayshukla.hashnode.dev/<br><br>- Actively looking for a work 
+I am currently working as DevOps engineer.<br>My Bio:  https://tanmayshukla.bio.link/<br><br>Regularly write articles on:<br>- https://dev.to/tanmaygi<br>- https://tanmayshukla.hashnode.dev/<br><br>- Actively looking for a work 
 
 
 ## 🌐 Socials:

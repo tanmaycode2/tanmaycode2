@@ -1,4 +1,11 @@
-# 💫 A Little About Me:
+Hi there 👋👋
+
+<!-- Animation Typing -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&&color=8C98F7FF&width=500&lines=I'm+Tanmay+Shukla.;"></a>
+</p>
+
+### 💫 A Little About Me:
 I am currently working as **DevOps Engineer**. Curious about **MLOps, Automation, AI, Cloud**.<br>My Bio:  https://tanmayshukla.bio.link/<br><br>Regularly write articles on:<br>- https://dev.to/tanmaygi<br>- https://tanmayshukla.hashnode.dev/<br><br>- Actively looking for a work 
 
 
